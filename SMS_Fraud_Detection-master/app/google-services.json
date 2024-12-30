@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038418640441",
+    "project_id": "spamdetector-ef8ce",
+    "storage_bucket": "spamdetector-ef8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038418640441:android:86286101bc9ace17f757e8",
+        "android_client_info": {
+          "package_name": "com.spamdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038418640441-njs317rnmrmaplup5csckqcs3n8f736i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPdMj2DVJiz53SuWwK6s5v_Vc53GnkLQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038418640441-njs317rnmrmaplup5csckqcs3n8f736i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
